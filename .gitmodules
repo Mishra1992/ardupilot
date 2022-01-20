@@ -34,3 +34,6 @@
 [submodule "modules/DroneCAN/libcanard"]
 	path = modules/DroneCAN/libcanard
 	url = https://github.com/DroneCAN/libcanard
+[submodule "path_to_submodule"] 
+  path = /home/pradeep/ardupilot 
+  url = git://https://github.com/Mishra1992/ardupilot
